@@ -21,7 +21,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
-        'studentnummer',
+        'studentnummer', // Voeg dit veld toe
     ];
 
     /**
@@ -47,4 +47,3 @@ class User extends Authenticatable
         ];
     }
 }
-

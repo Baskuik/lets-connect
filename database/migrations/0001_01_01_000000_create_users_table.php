@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
+            $table->string('studentnummer'); // Zorg ervoor dat dit veld hier is
             $table->rememberToken();
             $table->timestamps();
         });
@@ -47,3 +48,21 @@ return new class extends Migration
         Schema::dropIfExists('sessions');
     }
 };
+class CreateWorkshopsTable extends Migration
+{
+    public function up(): void
+    {
+        Schema::create('workshops', function (Blueprint $table) {
+            $table->id();
+            $table->string('workshop1');
+            $table->string('workshop2');
+            $table->string('workshop3');
+            $table->timestamps();
+        });
+    }
+
+    public function down(): void
+    {
+        Schema::dropIfExists('workshops');
+    }
+}
