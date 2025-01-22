@@ -13,24 +13,12 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/home', function() {
-    return view('home');
-});
 
-Route::get('/register1', function() {
-    return view('register1');
+Route::get('/Workshop', function() {
+    return view('Workshop');
 });
-
-Route::get('/Workshop1', function() {
-    return view('Workshop1');
-});
-
-Route::get('/Workshop2', function() {
-    return view('Workshop2');
-});
-
-Route::get('/Workshop3', function() {
-    return view('Workshop3');
+Route::get('Workshopaanmelden', function() {
+    return view('Workshopaanmelden');
 });
 
 Route::get('/dashboard', function () {
