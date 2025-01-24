@@ -209,7 +209,7 @@ img {
                 <a href="Workshopaanmelden" class="nav-links">Contact</a>
             </li>
             <li>
-                <a href="#" class="nav-links">About</a>
+                <a href="login" class="nav-links">Log in</a>
             </li>
         </ul>
         <div class="nav-toggle">
