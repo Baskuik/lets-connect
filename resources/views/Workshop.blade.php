@@ -229,18 +229,20 @@ img {
             <h2>workshop</h2>
             <div class="split">
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eos modi ratione accusamus
-                        laudantium
-                        eum? Expedita eligendi at, ad quod odit enim sapiente consequatur minima. Sunt qui culpa quos
-                        saepe.
+                    <p>
+                        Deltion College biedt verschillende workshops aan.
+                         Deze workshops zijn bedoeld voor iedereen die geïnteresseerd is in een bepaald vakgebied. 
+                         De workshops zijn bedoeld voor zowel beginners als gevorderden.
+                          De workshops worden gegeven door ervaren docenten die je graag helpen om je vaardigheden te verbeteren. 
+                          
                     </p>
                 </div>
 
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eos modi ratione accusamus
-                        laudantium
-                        eum? Expedita eligendi at, ad quod odit enim sapiente consequatur minima. Sunt qui culpa quos
-                        saepe.
+                    <p> 
+                    De workshops zijn bedoeld voor iedereen die geïnteresseerd is in een bepaald vakgebied. De workshops zijn bedoeld voor zowel beginners als gevorderden. 
+                          De workshops worden gegeven door ervaren docenten die je graag helpen om je vaardigheden te verbeteren.
+                    </p>
                     </p>
                 </div>
             </div>
@@ -253,7 +255,12 @@ img {
                 <div>
                     <h2>aanmelden</h2>
                     <div><p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eaque possimus minima culpa odio illo placeat veritatis soluta suscipit totam debitis rerum voluptate eligendi fuga, saepe quisquam aliquam provident officiis perspiciatis, earum aspernatur temporibus dolorum?
+                   
+                    <a href="https://www.example.com"> meld</a>
+                    je hier aan voor de Deltion Workshops, en ontdek wat jij kan!
+                    <p>
+                        aanmelden kan tot en met 15 april 15:00
+
                     </p></div>
                 </div>
                 <div>
