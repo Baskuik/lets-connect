@@ -275,7 +275,7 @@
         }
     </style>
     <nav class="navbar">
-        <a href="#" class="logo">deltion</a>
+        <a href="Workshop" class="logo">deltion</a>
         <ul class="main-nav">
             <li>
                 <a href="Workshop" class="nav-links">Home</a>
