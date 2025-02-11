@@ -10,7 +10,7 @@ Route::post('/register', [WorkshopRegistrationController::class, 'store']);
 Route::post('/register', [WorkshopController::class, 'store']);
 
 Route::get('/', function () {
-    return view('home');
+    return view('Workshop');
 });
 
 
