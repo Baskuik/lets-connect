@@ -8,7 +8,7 @@
     <style>
         :root {
     --clr-primary-200: #F5F5F5;
-    --clr-primary-400:#C0C0C0;
+    --clr-primary-400:white;
 
 
     --clr-neutral-100: #FFF;
@@ -226,7 +226,7 @@ img {
 
     <section class="text-center">
         <div class="container">
-            <h2>workshop</h2>
+            <h2 style="color:black">workshop</h2>
             <div class="split">
                 <div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eos modi ratione accusamus
@@ -242,6 +242,21 @@ img {
                         eum? Expedita eligendi at, ad quod odit enim sapiente consequatur minima. Sunt qui culpa quos
                         saepe.
                     </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-medium">
+        <div class="container">
+            <div class="split">
+                <div class="margin-bottom">
+                    </div>
+                <div>
+                    <h2>dagen en tijden</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam asperiores eos et magni itaque
+                        voluptatum reiciendis quasi quibusdam. Totam quaerat omnis aliquam itaque mollitia, adipisci
+                        veritatis accusamus consectetur tempore doloremque?</p>
                 </div>
             </div>
         </div>
@@ -263,20 +278,6 @@ img {
         </div>
     </section>
 
-    <section class="bg-medium">
-        <div class="container">
-            <div class="split">
-                <div class="margin-bottom">
-                    <img src="https://images.unsplash.com/photo-1536257104079-aa99c6460a5a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="">
-                </div>
-                <div>
-                    <h2>dagen en tijden</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam asperiores eos et magni itaque
-                        voluptatum reiciendis quasi quibusdam. Totam quaerat omnis aliquam itaque mollitia, adipisci
-                        veritatis accusamus consectetur tempore doloremque?</p>
-                </div>
-            </div>
-        </div>
-    </section>
+
 </body>
 </html>
